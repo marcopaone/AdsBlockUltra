@@ -1,2 +1,2 @@
-Authorizations :*://*.twitch.tv/*, *://*.ttvnw.net/*, webRequest, webRequestBlocking
-We don't grab and steal yout data. We need to read your webRequest to compare and match the url to block requets (ads) send by twitch.
+We don't grab and don't steal yout data. 
+We need to read your webRequest to compare the url to block requets (ads) sent by twitch.
