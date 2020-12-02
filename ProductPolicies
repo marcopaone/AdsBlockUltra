@@ -1,2 +1,7 @@
 We don't grab and don't steal your data. 
 We need to read your webRequest to compare the url to block requets (ads) sent by twitch.
+Permissions:
+*://*.twitch.tv/*
+*://*.ttvnw.net/*
+webRequest
+webRequestBlocking
