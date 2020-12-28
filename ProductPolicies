@@ -6,3 +6,5 @@ permissions:
     "https://*.twitch.tv/*",
     "https://usher.ttvnw.net/*",
     "background"
+    
+The proxy is not managed by us.
