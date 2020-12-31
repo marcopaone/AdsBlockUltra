@@ -3,8 +3,8 @@ We need to read your webRequest to compare the url to block requets (ads) sent b
 permissions: 
     "webRequest",
     "webRequestBlocking",
-    "https://*.twitch.tv/*",
-    "https://usher.ttvnw.net/*",
+    "*://*.twitch.tv/*",
+    "*://*.ttvnw.net/*"
    
     
 The proxy is not managed by us.
