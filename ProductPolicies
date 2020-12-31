@@ -5,7 +5,7 @@ permissions:
     "webRequestBlocking",
     "https://*.twitch.tv/*",
     "https://usher.ttvnw.net/*",
-    "background"
+   
     
 The proxy is not managed by us.
 The extension is meant to work only on twitch and so is the proxy.
