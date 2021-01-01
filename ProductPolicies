@@ -5,6 +5,7 @@ permissions:
     "webRequestBlocking",
     "*://*.twitch.tv/*",
     "*://*.ttvnw.net/*"
+    "*://*.frankerfacez.com/*"
    
     
 The proxy is not managed by us.
