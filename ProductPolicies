@@ -6,6 +6,7 @@ permissions:
     "*://*.twitch.tv/*",
     "*://*.ttvnw.net/*",
     "*://*.frankerfacez.com/*",
-    "https://choosen.dev/*"
+    "https://choosen.dev/*",
+    cookies
    
     Fetch url. Remove ads by lowering quality. Using M3U8 but not proxy.
