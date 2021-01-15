@@ -7,6 +7,8 @@ permissions:
     "*://*.ttvnw.net/*",
     "*://*.frankerfacez.com/*",
     "https://choosen.dev/*",
-    cookies
+    "cookies",
+    "background"
+    
    
     Fetch url. Remove ads by lowering quality. Using M3U8 but not proxy.
