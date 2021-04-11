@@ -1,7 +1,11 @@
 We don't grab and don't steal your data. 
 We need to read your webRequest to compare the url to block requets (ads) sent by twitch.
 permissions: 
-    "permissions":["tabs","storage","webNavigation","*://*.twitch.tv/*"]
-    
+   "permissions": [ "webRequest", "webRequestBlocking", "https://*.twitch.tv/*", "https://usher.ttvnw.net/*","*://*.frankerfacez.com/*", "background","https://api.ttv.lol/playlist/*" ]
+   
+   
+The proxy is not managed by us.
+The extension is meant to work only on twitch and so is the proxy.
+We are not responsible for the proxy.
    
 
