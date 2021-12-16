@@ -1,5 +1,5 @@
 We don't grab and don't steal your data. 
-With declarativeNetRequest we blocknetwork requests by specifying declarative rules requets (ads) sent by twitch.
+With declarativeNetRequest we block network requests by specifying declarative rules requets (ads) sent by twitch.
 
 
  "permissions": [
