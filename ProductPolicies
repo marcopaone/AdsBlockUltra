@@ -1,7 +1,20 @@
 We don't grab and don't steal your data. 
 We need to read your webRequest to compare the url to block requets (ads) sent by twitch.
 permissions: 
-   "permissions": [ "webRequest", "webRequestBlocking", "https://*.twitch.tv/*", "https://usher.ttvnw.net/*","*://*.frankerfacez.com/*".
+   "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "*://*.twitch.tv/*",
+        "https://*.ttvnw.net/*",
+        "activeTab",
+        "storage",
+        "https://*.amazon-adsystem.com/*",
+        "https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js",
+        "https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.5/v6s.js",
+        "https://countess.twitch.tv/*",
+        "https://www.googletagservices.com/tag/js/gpt.js",
+	"*://*.frankerfacez.com/*"
+    ],
    
    
 The proxy is not managed by us.
