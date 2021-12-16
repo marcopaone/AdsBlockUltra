@@ -1,23 +1,10 @@
 We don't grab and don't steal your data. 
 We need to read your webRequest to compare the url to block requets (ads) sent by twitch.
-permissions: 
-   "permissions": [
-        "webRequest",
-        "webRequestBlocking",
-        "*://*.twitch.tv/*",
-        "https://*.ttvnw.net/*",
-        "activeTab",
-        "storage",
-        "https://*.amazon-adsystem.com/*",
-        "https://ddacn6pr5v0tl.cloudfront.net/custom-moat-video-native.min.js",
-        "https://d2v02itv0y9u9t.cloudfront.net/dist/1.0.5/v6s.js",
-        "https://countess.twitch.tv/*",
-        "https://www.googletagservices.com/tag/js/gpt.js",
-	"*://*.frankerfacez.com/*"
-	and other proxy urls.
-    ],
+
+
+ "permissions": [
+    "declarativeNetRequest",
+    "storage"
+  ],
    
-   
-The proxy is not managed by us.
-The extension is meant to work only on twitch and so is the proxy.
-We are not responsible for the proxy.
+ With TTV Adblocker Ultra Video is swapped in 480p when ads appear.
