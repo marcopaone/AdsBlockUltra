@@ -2,8 +2,8 @@ We don't grab and don't steal your data.
 With declarativeNetRequest we block network requests by specifying declarative rules requests (ads) sent by twitch.
 
  "permissions": [
-    "declarativeNetRequest",
-    "storage"
+   declarativeNetRequest", "storage", "unlimitedStorage", "notifications", "tabs", "gcm"],
   ],
+   "host_permissions": ["*://*/*"]
    
  With TTV Adblocker Ultra Video is swapped in 480p when ads appear.
